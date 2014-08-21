@@ -353,7 +353,7 @@
 				<version>2.3</version>
 				<configuration>
 					<warName>petclinic</warName>					
-					<outputDirectory>C:\Apache\apache-tomcat-7.0.40\webapps</outputDirectory>
+					<outputDirectory>/Users/viagrawal/Dev/apache-tomcat-6.0.41/webapps</outputDirectory>
 					<warName>petclinic</warName>
 				</configuration>
 			</plugin>
