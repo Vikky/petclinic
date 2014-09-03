@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application
+# Spring PetClinic Sample Application (This is a forked repository, with intact license terms but some code changes)
 
 ## What does it look like?
 spring-petclinic has been deployed here on cloudfoundry: http://spring-petclinic.cloudfoundry.com/
