@@ -23,6 +23,9 @@ Our issue tracker is available here: https://github.com/SpringSource/spring-petc
 
 ## Working with Petclinic in Eclipse/STS
 
+## testing merge
+
+
 ### prerequisites
 The following items should be installed in your system:
 * Maven 3 (http://www.sonatype.com/books/mvnref-book/reference/installation.html)
