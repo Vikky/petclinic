@@ -1,4 +1,4 @@
 Playing with git merge  hey
-
+This is added at remote
 
 Now lets check
