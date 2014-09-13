@@ -2,4 +2,8 @@ Playing with git merge  hey
 
 Merge conflict.
 
+
+This lines are added at local repo.
+
+
 Now lets check
