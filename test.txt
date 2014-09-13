@@ -9,7 +9,8 @@ This lines are added at local repo.
 Now lets check
 
 
-These lines are added at remote.
+local changes new line and all
+These lines are added at remote.and this one changed at local
 
 
 
