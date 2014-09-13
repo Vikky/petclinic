@@ -5,7 +5,7 @@ Merge conflict.
 Now lets check
 
 
-These lines are added at remote.
+These lines are added at remote.and changed at remote
 
 
 
