@@ -1,5 +1,7 @@
 Playing with git merge  hey
 
-This is added at remote
+This is added at remote 
+
+local changes
 
 Now lets check
