@@ -1,5 +1,5 @@
 Playing with git merge  hey
 
-This is added at remote
+Merge conflict.
 
 Now lets check
